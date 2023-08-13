@@ -74,7 +74,7 @@ dcryptix.cleanup()
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Dcryptix, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you'd like to contribute to Dcryptix, please follow our [contribution guidelines](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md).
 
 ## License
 
